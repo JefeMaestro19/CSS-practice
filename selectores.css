@@ -1,0 +1,31 @@
+* {
+    color: red;
+}
+
+h1 {
+    color: blue;
+}
+
+.parrafo-2 {
+    color: green;
+}
+
+#parrafo-3 {
+    color: blueviolet;
+}
+
+[rancio="siii"] {
+    color: aqua;
+}
+
+p b {
+    color: chartreuse;
+}
+
+p:hover {
+    color: magenta;
+}
+
+p{
+    font-size: small; !important
+}
