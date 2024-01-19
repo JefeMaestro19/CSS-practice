@@ -27,5 +27,5 @@ p:hover {
 }
 
 p{
-    font-size: small; !important
+    font-size: small important;
 }

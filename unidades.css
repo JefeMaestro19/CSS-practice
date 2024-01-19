@@ -1,0 +1,21 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.contact-form {
+    font-size: 10px;
+ }
+
+.contact-form__h1 {
+    font-size: 4em;
+}
+
+.contact-form1__h2 {
+    font-size: 25px;
+    background-color: #041bf1;
+    width: 50vw;
+    height: 70vh;
+    font-family: 'Rubik Burned', system-ui;
+    color: blueviolet;
+}
